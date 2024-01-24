@@ -19,7 +19,7 @@ Code.
 ## Write an `a` Tag to Create a Link
 
 Open `index.html` in your text editor. Add an `a` tag with the inner text (the
-text between the `<a>` tag and the `</a>` tag) of `Flatiron School` anywhere in
+text between the `<a>` tag and the `</a>` tag) of `Hover Over Me` anywhere in
 the file. Then set the `href` attribute of your new link element to
 `https://flatironschool.com`.
 

@@ -10,9 +10,9 @@ describe("index.html", () => {
     expect(aTag).to.exist;
   });
 
-  it("has the text content of 'Flatiron School'", () => {
+  it("has the text content of 'Hover Over Me'", () => {
     const aTag = document.querySelector("a");
-    expect(aTag).to.have.text("Flatiron School");
+    expect(aTag).to.have.text("Hover Over Me");
   });
 
   it("has the href attribute of 'https://flatironschool.com'", () => {
